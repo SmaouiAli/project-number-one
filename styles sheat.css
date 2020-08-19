@@ -1,0 +1,57 @@
+body {
+  background-image:  url(https://media.giphy.com/media/LmBrBsut2zzgYXtfgf/giphy.gif);
+ background-size: 1366px 780px;
+ }
+ h1 {
+ 	font-family: "Times New Roman", Times, serif;
+ 	font-size: 50px;
+ 	color: red;
+
+ }
+ #mess {
+font-size: 25px;
+color: yellow;
+ }
+  #introducing{
+  	font-size: 35px;
+  	font-family:  "Times New Roman", Times, serif
+  	color:#001d00
+
+  }
+  #list{
+  	font-size: 30px;
+  	font-family:  "Times New Roman", Times, serif
+  	color:#604858
+  }
+  label {
+  	font-size: 30px;
+  	font-family:  "Times New Roman", Times, serif
+  	color:red;
+  }
+  option{
+  	font-size: 18px;
+  	font-family:  "Times New Roman", Times, serif
+  	color:red;
+  	background-color: yellow;
+  }
+  select {
+  	font-size: 18px;
+  	font-family:  "Times New Roman", Times, serif
+  	color:red;
+  	background-color: yellow;
+  }
+  button {
+  	background: red;
+  	color: black;
+  }
+  li {
+  	font-size: 50px;
+  	font-family:  "Times New Roman", Times, serif
+  	color:red;
+ 
+  }
+  p {
+
+color: red;
+  };
+
